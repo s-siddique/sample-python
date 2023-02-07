@@ -1,4 +1,4 @@
-
+day2 abcd
 ## Bitwise operators  ###########
 
 a = 60            # 60 = 0011 1100 
